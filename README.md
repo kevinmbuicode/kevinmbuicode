@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Mbui Mushan</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinmbuicode&label=Profile%20views&color=0e75b6&style=flat" alt="kevinmbuicode" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Crypto, E-commerce, and Real-time Chatting Web Apps](https://github.com/kevinmbuicode?tab=repositories)
 
-- 🌱 I’m currently learning **React, React Query, Tailwind, Material UI, TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [Front and Backend projects](https://github.com/kevinmbuicode?tab=repositories)
+- 👯 I’m looking to collaborate on [Secure Payment gateways](https://github.com/kevinmbuicode?tab=repositories)
 
-- 🤝 I’m looking for help with [anything you see you can improve me on](https://github.com/kevinmbuicode?tab=repositories)
+- 🤝 I’m looking for help with [websockets](https://github.com/kevinmbuicode?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kevinmbuicode](https://github.com/kevinmbuicode)
+- 👨‍💻 All of my projects are available at [https://www.mushan.tech](https://www.mushan.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@kevinmbui](https://medium.com/@kevinmbui)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **kevinmushan@gmail.com**
 
-- ⚡ Fun fact **Besides having an oven for over an year I have never baked anything inside it**
+- ⚡ Fun fact **Besides failing several times starting tech companies, I still believe I can run one with my managerial skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
