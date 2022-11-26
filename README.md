@@ -7,30 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/kevinmbuimushan" target="blank"><img src="https://img.shields.io/twitter/follow/kevinmbuimushan?logo=twitter&style=for-the-badge" alt="kevinmbuimushan" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto, E-commerce, and Real-time Chatting Web Apps](https://github.com/kevinmbuicode?tab=repositories)
+- 🔭 I’m currently working on positive climate impact in Kenya.
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 Won the AWS Impact+ Hackathon 2022. Sponsored and Awarded AWS, Stnabic Bank, iLab Africa. We were able to develop an #IOT-based CO2 monitoring solution hosted on AWS. By utilizing services such as S3, Core IoT, and Sagemaker, we developed a platform that tracks CO2 and Methane emissions through #MQTT protocols and leverages LSTM neural networks (#AI model) to forecast the future demand for a company's goods. In addition, we help companies achieve their UN goals i.e Sustainable Development Goals, SDG7, and SDG13. This project also assists in making Nationally Determined Contributions(NDCs) for 194 Countries/States as per the Paris Agreement in COP21 of the UN meetings.
 
-- 👯 I’m looking to collaborate on [Secure Payment gateways](https://github.com/kevinmbuicode?tab=repositories)
-
-- 🤝 I’m looking for help with [websockets](https://github.com/kevinmbuicode?tab=repositories)
+- 👯 I’m looking to collaborate on Solutions that immensely effect people, codewise. Some of the topics I'd like to cover include climate change, food security, drought and clean water.
 
 - 👨‍💻 All of my projects are available at [https://www.mushan.tech](https://www.mushan.tech)
 
-- 📝 I regularly write articles on [https://medium.com/@kevinmbui](https://medium.com/@kevinmbui)
-
-- 💬 Ask me about **any stacks you see below**
-
 - 📫 How to reach me **kevinmushan@gmail.com**
 
-- ⚡ Fun fact **Besides failing several times starting tech companies, I still believe I can run one with my managerial skills**
+- ⚡ Fun fact **software development is bittersweet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kevinmbuimushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevinmbuimushan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kevinmbui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinmbui" height="30" width="40" /></a>
 <a href="https://instagram.com/kevin.mbui.mushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevin.mbui.mushan" height="30" width="40" /></a>
-<a href="https://medium.com/@kevinmbui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevinmbui" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/3uxWAaWYmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3uxWAaWYmh" height="30" width="40" /></a>
 </p>
 
