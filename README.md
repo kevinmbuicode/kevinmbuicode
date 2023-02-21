@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on positive climate impact in Kenya.
 
-- 🌱 Won the AWS Impact+ Hackathon 2022. Sponsored and Awarded AWS, Stanbic Bank, iLab Africa. We were able to develop an #IOT-based CO2 monitoring solution hosted on AWS. By utilizing services such as S3, Core IoT, and Sagemaker, we developed a platform that tracks CO2 and Methane emissions through #MQTT protocols and leverages LSTM neural networks (#AI model) to forecast the future demand for a company's goods. In addition, we help companies achieve their UN goals i.e Sustainable Development Goals, SDG7, and SDG13. This project also assists in making Nationally Determined Contributions(NDCs) for 194 Countries/States as per the Paris Agreement in COP21 of the UN meetings.
+- 🌱 Won the AWS Impact+ Hackathon 2022. Sponsored and Awarded AWS, Stanbic Bank, iLab Africa. Developed an #IOT-based CO2 monitoring solution hosted on AWS. By utilizing services such as S3, Core IoT, and Sagemaker, we developed a platform that tracks CO2 and Methane emissions through #MQTT protocols and leverages LSTM neural networks (#AI model) to forecast the future demand for a company's goods. In addition, this project helps companies achieve their UN goals i.e Sustainable Development Goals, SDG7, and SDG13. This project also assists in making Nationally Determined Contributions(NDCs) for 194 Countries/States as per the Paris Agreement in COP21 of the UN meetings.
 
 - 👯 I’m looking to collaborate on Solutions that immensely effect people, codewise. Some of the topics I'd like to cover include climate change, food security, drought and clean water.
 
@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kevinmbuimushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevinmbuimushan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kevinmbui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinmbui" height="30" width="40" /></a>
 <a href="https://instagram.com/kevin.mbui.mushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevin.mbui.mushan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/3uxWAaWYmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3uxWAaWYmh" height="30" width="40" /></a>
 </p>
