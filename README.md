@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kevinmbuimushan" target="blank"><img src="https://img.shields.io/twitter/follow/kevinmbuimushan?logo=twitter&style=for-the-badge" alt="kevinmbuimushan" /></a> </p>
 
-- 🔭 I’m currently working on positive climate impact in Kenya.
 
-- 🌱 Won the AWS Impact+ Hackathon 2022. Sponsored and Awarded AWS, Stanbic Bank, iLab Africa. In a team of 4, Developed an #IOT-based CO2 monitoring solution hosted on AWS. By utilizing services such as S3, Core IoT, and Sagemaker, we developed a platform that tracks CO2 and Methane emissions through #MQTT protocols and leverages LSTM neural networks (#AI model) to forecast the future demand for a company's goods. In addition, this project helps companies achieve their UN goals i.e Sustainable Development Goals, SDG7, and SDG13. This project also assists in making Nationally Determined Contributions(NDCs) for 194 Countries/States as per the Paris Agreement in COP21 of the UN meetings.
-
-- 👯 I’m looking to collaborate on Solutions that immensely effect people, codewise. Some of the topics I'd like to cover include climate change, food security, drought and clean water.
+- 🌱 I'm a Frontend software engineer, working with React. I like to increase web performance through various techniques eg Network delivery, Webpack, Critical Render Path, Code splitting, caching, SSR etc. I as well observe web accesibility compliance, frontend security, and code re-usability maintainability. I perform unit testing with Jest. I collaborate with BE devs to integrate APIs, which I as well write and assist in BE tasks a lot. I have worked with AWS Lambda, Docker, OpenShift, Pytho & Django. I am a constant learner, team player, able to take a leadership role.
 
 - 👨‍💻 All of my projects are available at [https://www.mushan.tech](https://www.mushan.tech)
 
 - 📫 How to reach me **kevinmushan@gmail.com**
 
-- ⚡ Fun fact **software development is bittersweet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
