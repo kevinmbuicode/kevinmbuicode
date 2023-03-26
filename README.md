@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/kevinmbuimushan" target="blank"><img src="https://img.shields.io/twitter/follow/kevinmbuimushan?logo=twitter&style=for-the-badge" alt="kevinmbuimushan" /></a> </p>
 
 
-- 🌱 I'm a Frontend software engineer, working with React. I like to increase web performance through various techniques eg Network delivery, Webpack, Critical Render Path, Code splitting, caching, SSR etc. I as well observe web accesibility compliance, frontend security, and code re-usability maintainability. I perform unit testing with Jest. I collaborate with BE devs to integrate APIs, which I as well write and assist in BE tasks a lot. I have worked with AWS Lambda, Docker, OpenShift, Pytho & Django. I am a constant learner, team player, able to take a leadership role.
+- 🌱 I'm a Frontend software engineer, working with React. I like to increase web performance through various techniques eg Webpack, Critical Render Path, Code splitting, caching, SSR etc. I as well observe web accesibility compliance, frontend security, and code re-usability scalability. I perform unit testing with Jest. I collaborate with BE devs to integrate APIs, which I as well write and assist in BE tasks a lot. I have worked with AWS Lambda, Docker, OpenShift, Python & Django. I am a constant learner, team player, able to take a leadership role.
 
 - 👨‍💻 All of my projects are available at [https://www.mushan.tech](https://www.mushan.tech)
 
